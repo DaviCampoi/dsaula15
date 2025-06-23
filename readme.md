@@ -1,3 +1,6 @@
+Não consegui tirar o .git dessa atividade, professor, mas mexi no job e criei os arquivos necessários
+
+
 # Unifaat :: Devweb :: TF Aula 15 - Filas <a name="unifaat-devweb-aula-15---filas"></a>
 
 ## 📑 Sumário
